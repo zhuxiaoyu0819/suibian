@@ -1,0 +1,10 @@
+.box {
+    background-color: #66ccff;
+    display:flex;
+    /*webkit 内核*/
+    display:-webkit-flex;
+}
+
+.item {
+    background-color: #ffaf4a;
+}
