@@ -1,10 +1,11 @@
-.box {
-    background-color: #66ccff;
-    display:flex;
-    /*webkit 内核*/
-    display:-webkit-flex;
-}
 
-.item {
+
+
+
+.debug {
+    border-style:solid;
+    margin: 4px;
+    width: 100px;
+    height: 100px;
     background-color: #ffaf4a;
 }
